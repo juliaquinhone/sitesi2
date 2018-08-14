@@ -7,4 +7,10 @@ h1{
 }
 .txt-azul{
 	color:blue;
+    font-size: 18px;
+	font-weight: bold; /*negrito*/
+}
+.dir{
+	float: right;
+	margin: 15px;
 }
